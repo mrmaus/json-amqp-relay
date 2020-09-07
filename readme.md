@@ -1,4 +1,4 @@
-# JSON RabbitMQ Relay Server
+# JSON AMQP Relay Server
 
 Simple HTTP server that forwards JSON payload in incoming HTTP POST request to the configured AMQP server. 
 Initially was created to relay Prometheus AlertManager notifications to RabbitMQ.
